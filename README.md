@@ -4,7 +4,8 @@
 <!-- ![](https://github-readme-stats.shion.dev/api?username=boredlol0&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 ![](https://streak-stats.demolab.com/?user=banananeo&theme=dark&hide_border=false)
 <br/>
-![]([https://github-readme-stats.hackclub.dev/api/wakatime?username=toshlol&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8](https://github-readme-stats.hackclub.dev/api/wakatime?username=63175&api_domain=hackatime.hackclub.com&theme=nightowl&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
+![](![](https://github-readme-stats.vercel.app/api/wakatime?username={banananeo}&api_domain=waka.hackclub.com&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Hackatime%20Stats&layout=compact)
+
 )
 
 ---
