@@ -19,32 +19,9 @@ Currently focused on improving my skills in **Frontend Development, React, Next.
 * 🎯 Goal: Become a strong **Full-Stack Web Developer**
 
 ---
-
-## 🛠️ Tech Stack
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
-</p>
-
-### Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,mysql" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
-</p>
-
----
-
 ## 🚀 Projects
 
-### 🛒 Campus Market
+### Campus Market
 
 A campus-focused marketplace where students can **buy and sell items** such as books, electronics, furniture, and more.
 
@@ -56,8 +33,9 @@ A campus-focused marketplace where students can **buy and sell items** such as b
 
 A hackathon project designed to help students understand **campus lift queues and crowd levels**.
 
-**Built during:** Egdenova'26
+**Built during:** Egdenova'26 Hackathon
 **Focus:** Problem solving • Web development • Hackathon collaboration
+**Tech:** Python • YOLO V8 nano Hugging face model • react 
 
 ---
 
@@ -75,9 +53,11 @@ A hackathon project designed to help students understand **campus lift queues an
 
 ## 📈 What I'm Currently Working On
 
-```text
-Learning → Building → Breaking → Debugging → Improving → Repeat 🔁
-```
+### QR_GENERATOR
+A campus-focused marketplace where students can **buy and sell items** such as books, electronics, furniture, and more.
+
+**Tech:** javaScript • React • HTML/CSS • Vercel
+
 
 I'm currently focused on:
 
