@@ -4,7 +4,7 @@
 
 I’m a college student passionate about **building things for the web**, learning new technologies, and turning ideas into working products.
 
-Currently focused on improving my skills in **Frontend Development, React, Next.js, and Backend Development**.
+Currently focused on improving my skills in **Frontend Development, React
 
 ---
 
