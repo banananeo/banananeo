@@ -54,7 +54,7 @@ A hackathon project designed to help students understand **campus lift queues an
 ## 📈 What I'm Currently Working On
 
 ### QR_GENERATOR
-A campus-focused marketplace where students can **buy and sell items** such as books, electronics, furniture, and more.
+A QR code generator which can be customized to the users liking such as foreground,background cool patterns.
 
 **Tech:** javaScript • React • HTML/CSS • Vercel
 
