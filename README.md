@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sabareesh
 
-### 🚀 Aspiring Web Developer | Full-Stack Developer in Progress
+### 🚀 Aspiring Web Developer | Student At SRM University
 
 I’m a college student passionate about **building things for the web**, learning new technologies, and turning ideas into working products.
 
