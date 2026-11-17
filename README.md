@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Sabareesh
+I'm Sabareesh
 
-### 🚀 Aspiring Web Developer | Student At SRM University
+### Aspiring Web Developer | Student At SRM University
 
-I’m a college student passionate about **building things for the web**, learning new technologies, and turning ideas into working products.
+I’m a college student passionate about building, learning new technologies, and solving real life issues
 
-Currently focused on improving my skills in **Frontend Development, React
+Currently focused on improving my skills in **Frontend Development, React, Supabase
 
 ---
 
@@ -13,13 +13,11 @@ Currently focused on improving my skills in **Frontend Development, React
 * 🌱 Currently learning **Frontend & Full-Stack Development**
 * ⚛️ Exploring **React & Next.js**
 * 🗄️ Working with **Supabase & databases**
-* 🚀 Deploying projects with **Vercel**
-* 🛠️ Building projects to learn by doing
+* 🚀 Deploying projects with **Vercel and Cloudfare**
 * 🏆 Participating in **hackathons & developer communities**
-* 🎯 Goal: Become a strong **Full-Stack Web Developer**
 
 ---
-## 🚀 Projects
+##  Projects
 
 ### Campus Market
 
@@ -29,7 +27,7 @@ A campus-focused marketplace where students can **buy and sell items** such as b
 
 ---
 
-### 🛗 QueueSense
+### QueueSense
 
 A hackathon project designed to help students understand **campus lift queues and crowd levels**.
 
@@ -58,21 +56,6 @@ A QR code generator which can be customized to the users liking such as foregrou
 
 **Tech:** javaScript • React • HTML/CSS • Vercel
 
-
-I'm currently focused on:
-
-* 🎨 Building better frontend interfaces
-* ⚛️ Becoming stronger with React & Next.js
-* 🔌 Learning how frontend connects with backend systems
-* 🗄️ Improving my database knowledge
-* 🚀 Building and deploying real-world projects
-* 💡 Learning through projects instead of just tutorials
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in connecting with other developers, collaborating on projects, and learning new things.
 
 <p align="center">
   <a href="https://github.com/banananeo">
