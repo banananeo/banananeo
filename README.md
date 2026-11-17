@@ -68,6 +68,3 @@ A QR code generator which can be customized to the users liking such as foregrou
 
 ---
 
-<p align="center">
-  <b>⚡ Building my way into the web.</b>
-</p>
